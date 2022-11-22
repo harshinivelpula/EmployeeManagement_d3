@@ -13,8 +13,11 @@ namespace EmployeeManagement1
             //DailyEmployeeWage dailyEmployeeWage = new DailyEmployeeWage();
             //DailyEmployeeWage.DailyWage();
             //Console.ReadKey();
-            PartTime parttime = new PartTime();
-            PartTime.PartTimeWage();
+            //PartTime parttime = new PartTime();
+            //PartTime.PartTimeWage();
+            //Console.ReadKey();
+            Case Case = new Case();
+            Case.CaseStatement();
             Console.ReadKey();
         }
     }
