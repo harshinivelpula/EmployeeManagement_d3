@@ -16,8 +16,11 @@ namespace EmployeeManagement1
             //PartTime parttime = new PartTime();
             //PartTime.PartTimeWage();
             //Console.ReadKey();
-            Case Case = new Case();
-            Case.CaseStatement();
+            //Case Case = new Case();
+            //Case.CaseStatement();
+            //Console.ReadKey();
+            WageForMonth wageForMonth = new WageForMonth();
+            WageForMonth.MonthlyWage();
             Console.ReadKey();
         }
     }
